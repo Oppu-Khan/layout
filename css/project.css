@@ -1,0 +1,68 @@
+body{
+margin:auto;
+font-family: sans-serif;
+font-size: ;
+font-weight: ;
+color:#292640 ;
+}
+header{}
+.contaniar{
+padding-top: 15px;
+margin: 0 auto;
+width:65%;
+overflow: hidden;
+}
+.logo{
+width:10%;
+float: left;
+ }
+ .logo img{
+ width: 100%;
+ }
+.menu{
+float: left;
+}
+.b{	
+float: right;
+overflow: hidden;
+}
+.b button{
+	border: none;
+	padding:15px;
+	width: 100%;
+	background-color:#ff6162;
+	color: white;
+	border-radius:5px;
+}
+.menu ul{}
+.menu ul li{
+list-style: none;
+float: right;
+}
+.menu ul li a{
+padding: 0 20px;
+text-decoration: none;
+}
+
+.contaniar2{
+padding: 5% 0;
+width: 65%;
+margin: 0 auto;
+}
+.GLeft{
+float: left;	
+width: 50%;
+}
+.GLeft h1{
+font-size:60px;	
+color:#292640;
+line-height:60px;
+}
+.GLeft p{
+margin: 0 auto;
+color:#d9d9d9;
+font-size:20px;
+}
+.Gright{
+float: right;
+}
